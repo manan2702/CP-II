@@ -1,2 +1,1 @@
-# CP-II
-Capstone Project on Food Waste Donation.
+Food Donation Website.
